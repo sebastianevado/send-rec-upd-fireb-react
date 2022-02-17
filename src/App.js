@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore,doc, setDoc, Timestamp, updateDoc, getDoc, onSnapshot, docSnap } from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCUeIe9R_mt2Iu1O3qvsThN7nlFTpk0IbI",
-  authDomain: "fireship-demo-auth.firebaseapp.com",
-  databaseURL: "https://fireship-demo-auth-default-rtdb.firebaseio.com",
-  projectId: "fireship-demo-auth",
-  storageBucket: "fireship-demo-auth.appspot.com",
-  messagingSenderId: "992496479245",
-  appId: "1:992496479245:web:5d77c5c56b98baf7993944"
+  apiKey: "AIzaSyCUeIe9R_mASDAQ831I",
+  authDomain: "AUTH-DOMAIN",
+  databaseURL: "YESYESYESYES",
+  projectId: "YOUR-APP-ID",
+  storageBucket: "IN YOUR APP",
+  messagingSenderId: "81939120312",
+  appId: "YOUR APP ID"
 };
 const app = initializeApp(firebaseConfig);
 
